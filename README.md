@@ -24,4 +24,5 @@ https://user-images.githubusercontent.com/84342697/128755202-264b2d31-23c0-48e1-
 
 Organização!
 
-![Organização](https://user-images.githubusercontent.com/84342697/128755586-7a0955b9-d483-4f3d-a491-09d386d3cb2c.png)
+![Organização](https://user-images.githubusercontent.com/84342697/128756074-9ea18bf5-a060-44eb-a4d1-6b837a592a34.png)
+
