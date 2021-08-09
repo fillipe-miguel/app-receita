@@ -16,3 +16,9 @@ Tela entrando na receita!
 
 
 Video do app!
+
+
+
+
+https://user-images.githubusercontent.com/84342697/128755202-264b2d31-23c0-48e1-9fe7-44cdad27c1f1.mp4
+
