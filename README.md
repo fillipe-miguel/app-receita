@@ -18,7 +18,10 @@ Tela entrando na receita!
 Video do app!
 
 
-
-
 https://user-images.githubusercontent.com/84342697/128755202-264b2d31-23c0-48e1-9fe7-44cdad27c1f1.mp4
 
+
+
+Organização!
+
+![Organização](https://user-images.githubusercontent.com/84342697/128755586-7a0955b9-d483-4f3d-a491-09d386d3cb2c.png)
